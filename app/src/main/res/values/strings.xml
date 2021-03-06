@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Problem Solver</string>
+    <string name="intro_message">Welcome to the Problem Solver.</string>
+    <string name="farmer_button">Farmer, Wolf, Goat, and Cabbage</string>
+    <string name="puzzle_button">8-Puzzle</string>
+    <string name="selection_message">Please select the problem that you would like to solve.</string>
+    <string name="farmer_intro">Welcome to the Farmer, Wolf, Goat, and Cabbage Problem</string>
+    <string name="farmer_description">
+        A farmer and his wolf, goat, and cabbage come to the edge of a
+        river they wish to cross. There is a boat at the river\'s edge that only the farmer can row.
+        The farmer can take at most one other object besides himself on a crossing, but if the wolf
+        is ever left with the goat, the wolf will eat the goat; similarly, if the goat is left with
+        the cabbage, the goat will eat the cabbage. Devise a sequence of crossings of the river so
+        that all four characters arrive safely on the other side.</string>
+    <string name="start_button">Start</string>
+    <string name="puzzle_intro">Welcome to the 8-Puzzle Problem</string>
+    <string name="puzzle_description">
+        You are given a board in which numbered tiles can slide around. There is one blank space
+        that holds no tile.  A legal move consists of sliding a tile into the blank space if the
+        tile is adjacent to it. The goal is to move tiles around until the board looks like the
+        final state below.</string>
+    <string name="tile_1">1</string>
+    <string name="tile_2">2</string>
+    <string name="tile_3">3</string>
+    <string name="tile_4">4</string>
+    <string name="tile_5">5</string>
+    <string name="tile_6">6</string>
+    <string name="tile_7">7</string>
+    <string name="tile_8">8</string>
+    <string name="farmer_moves">Farmer Takes:</string>
+    <string name="farmer_move_self">Self</string>
+    <string name="farmer_move_wolf">Wolf</string>
+    <string name="farmer_move_goat">Goat</string>
+    <string name="farmer_move_cabbage">Cabbage</string>
+    <string name="congrats_message">Congratulations! You solved the problem.</string>
+    <string name="puzzle_moves">Click a tile to move it into the space</string>
+    <string name="tile_0">0</string>
+    <string name="solve_button">Solve</string>
+    <string name="next_button">Next</string>
+    <string name="reset_button">Reset</string>
+    <string name="puzzle_statistics">Press \'Solve\' to solve the problem and see statistics.</string>
+    <string name="return_main">Return to Problem Selection</string>
+
+</resources>
